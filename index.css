@@ -1,14 +1,55 @@
-h1{
-top : 0;
-left :0;
-right:0;
-height:30px;
-text-align:center;
-background-color:green;
-color:white;
+body {
+
+    background-color:black;
 }
 
-div{
-    
-    color:red;
+
+h1 {
+   top : 0;
+   left :0;
+   right:0;
+   padding:20px;
+   height:50px;
+   text-align:center;
+   background-color:lightcoral;
+   color:skyblue;
+   border-radius:20px;
+}
+
+nav{
+    left-margin:0;
+    right-margin:0;
+    align:center;
+    background-color:yellow;
+}
+#main{
+    margin:2px;
+    height:400px;
+    background-color:lightsteelblue;
+}
+table{
+    width:500px;
+    align:center;
+}
+tr{
+    height:200px;
+    width:500px;
+    background-color:red;
+}
+tc{
+    margin:2px;
+    height:200px;
+    width:130px;
+    background-color:brown;
+}
+button {
+    margin:2px;
+    margin-right:0;
+    border-radius:10px;
+     align:center;
+    background-color:lightseagreen;
+}
+footer{
+    background-color:greenyellow;
+    height:100px;
 }
